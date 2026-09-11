@@ -9,7 +9,7 @@ cask "coding-tools-mcp" do
   homepage "https://github.com/iihciyekub/coding-tools-mcp"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :high_sierra"
+  depends_on macos: :high_sierra
 
   app "Coding Tools MCP.app"
 end
