@@ -1,6 +1,6 @@
 cask "coding-tools-mcp" do
-  version "0.5.0"
-  sha256 "2fbf7e0a1bd5fbc87c4338d8c0a50c6f872f87f769fe5e6d1430d831f89a8784"
+  version "0.5.1"
+  sha256 "0871dae09080137789882b0d33ce12cab7955390c3a7b8231aa92cb9466fa099"
 
   url "https://github.com/iihciyekub/coding-tools-mcp/releases/download/desktop-v#{version}/Coding-Tools-MCP-#{version}-arm64.dmg"
   name "Coding Tools MCP"
